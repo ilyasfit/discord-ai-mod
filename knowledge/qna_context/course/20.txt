@@ -1,0 +1,90 @@
+Aula 2 - O ativo Digital
+
+Os princípios que vamos explorar neste módulo sobre o ciclo de Económico são perfeitamente aplicáveis ao universo dos criptoativos e à nossa relação com este novo ecossistema.
+...
+Mas, antes de avançarmos, é fundamental alinharmos os nossos conhecimentos sobre moeda digital.
+O receio que muitas pessoas têm em investir em Bitcoin, por exemplo, resulta, frequentemente, de uma incompreensão sobre a natureza do próprio dinheiro e de como o valor é atribuído às coisas.
+...
+A partir do momento em que tu compreenderes que o valor, ou o preço de algo, se baseia na intemporal lei da oferta e da procura, vais perceber como até uma simples concha, como aconteceu no passado, pôde ser vista como um grande investimento.
+O valor é ditado por esta lei. E vamos falar muito sobre ela neste módulo.
+...
+Pensa, por exemplo, na compra de um relógio de luxo como um investimento.
+Imagina que não és um especialista em relógios. Sabes apenas que um Rolex é extremamente valioso.
+Começas a observar o mercado e reparas que a procura por um modelo específico está a aumentar... mas a capacidade de produção da fábrica para esse modelo é muito limitada.
+Isto significa que o seu preço tende, inevitavelmente, a subir, certo? As pessoas estarão dispostas a pagar cada vez mais por ele.
+Repara: mesmo sem ser um perito, consegues perceber que este Rolex pode ser um investimento para ti, e não apenas um gasto.
+...
+Quando olhamos para os criptoativos, o raciocínio é semelhante.
+Atualmente, as pessoas procuram ativamente por ativos digitais.
+Falando especificamente do Bitcoin: mesmo que não domines a tecnologia por trás dele, tal como no nosso exemplo do relógio, consegues observar que existe um enorme interesse social em torno deste ativo.
+Se há interesse e procura... então, o ativo tem valor.
+...
+Sei que é perfeitamente compreensível que as pessoas hesitem em investir naquilo que não dominam.
+Afinal, não consegues ver uma moeda digital. Não podes pegar numa com a mão. Não existe um "Bitcoin físico" para segurar.
+Estamos, portanto, a lidar com algo que parece imaginário.
+E isso tende a gerar medo, precisamente por soar a algo incontrolável e desconhecido. Torna-se difícil ter a certeza de que aquilo tem, de facto, valor.
+...
+No entanto, se tu interiorizares que QUALQUER coisa só tem um preço por causa da lei da oferta e da procura...
+...passas a entender que, se hoje as pessoas procuram um ativo digital, como uma criptomoeda, isso leva a um aumento do seu preço. A uma valorização.
+Mesmo que não consigas ver esse ativo, sabes que ele tem potencial para valorizar, porque existe uma lei económica fundamental a funcionar por trás do seu preço.
+...
+Este é o primeiro ponto crucial.
+Para ter sucesso a investir neste mercado, não precisas, obrigatoriamente, de ser um perito técnico em criptoativos.
+Precisas de entender a lei da oferta e da procura, que vamos detalhar nas próximas aulas. E isto será primordial para distinguires um bom de um mau investimento.
+...
+Pensa nisto: quando olhamos para um ativo na bolsa de valores, as pessoas também não conseguem "ver" esse ativo.
+Elas não percebem, fisicamente, que estão a comprar uma fração de uma empresa.
+Por exemplo, quando compro uma ação da EDP, estou, na prática, a tornar-me sócio da empresa. A comprar um pequeno pedaço dela.
+Mas não vou receber uma cadeira do escritório em casa. Não vou ter direito a uma parte dos funcionários. Não tenho acesso a nenhum bem material da empresa.
+Contudo, as pessoas conseguem interpretar, no seu imaginário, que estão a comprar uma fração daquela empresa. Elas vêem que aquilo tem valor. E é por isso que investem.
+...
+A diferença é que, com as criptomoedas, o que possuis é uma moeda puramente digital.
+O Bitcoin, por exemplo, surgiu em 2009, criado por Satoshi Nakamoto.
+Até hoje, não sabemos se este nome representa uma pessoa ou um grupo. É um pseudónimo.
+O criador, ou criadores, preferiu manter o anonimato porque, quer queiramos quer não, estava a criar uma tecnologia que desafiava o sistema financeiro estabelecido. Foi uma forma de proteger a sua integridade.
+...
+Mas o Bitcoin não foi a primeira tentativa.
+Na década de 90, por exemplo, tivemos outros projetos de moedas digitais, como o Digicash em 1990, e o BitGold em 2005.
+Ambos fracassaram. Mas todos partilhavam o mesmo objetivo: criar um sistema financeiro que não dependesse de um banco central para gerir a economia de um ativo.
+...
+E neste momento, deves estar a perguntar-te: então, o que é, afinal, uma moeda digital?
+É simples. Qualquer criptoativo é, na sua essência... um software.
+Nada mais, nada menos. É um programa de computador. Uma programação que não conseguimos transportar para o mundo físico. Não se pode tocar nem visualizar. Só existe dentro dos computadores.
+Esta moeda digital, ou virtual, pode ser trocada por bens e serviços reais.
+Ao contrário do dinheiro tradicional, as moedas digitais são guardadas em "carteiras digitais" e as transações são feitas online, usando criptografia para garantir a segurança e para controlar a criação de novas unidades.
+Nesse software, tens acesso ao teu saldo e podes transferi-lo para outra pessoa.
+...
+É o mesmo que acontece com o teu banco.
+Tu tens um saldo digital na tua conta, na aplicação do teu banco. Dependes de um software para fazer uma transferência por MB WAY para outra pessoa.
+Portanto, uma criptomoeda é, digitalmente falando, apenas um software.
+...
+Mas com uma diferença fundamental.
+Ao contrário das moedas tradicionais, cuja emissão é controlada por um Banco Central, os criptoativos não têm um banco central.
+Não há ninguém a controlar a sua "impressão". O software é criado com regras definidas no seu código, e é esse código que processa toda a programação.
+Com uma moeda tradicional, o Banco Central decide quando vai imprimir mais dinheiro, expandindo a oferta, ou quando a vai contrair. Ficamos à mercê dessas decisões.
+Nos criptoativos, isso não acontece. Não existe um órgão central a decidir se vamos emitir mais ou menos ativos. Isto evita, por exemplo, uma inflação descontrolada causada por decisões governamentais.
+...
+Outro diferencial é o protocolo descentralizado.
+Descentralização significa, simplesmente, a ausência de uma entidade central que toma todas as decisões.
+Num sistema tradicional, o Banco Central decide se haverá inflação ao imprimir mais dinheiro. Nos criptoativos, não. Não há um governo a tomar essa decisão.
+É preciso haver um consenso da rede. Para alterar as regras do software... como por exemplo, emitir mais moedas... é necessário que 51% da rede concorde com essa atualização.
+Não precisas de dominar agora todos os detalhes técnicos. Apenas a ideia central.
+...
+Voltando à ideia de que um criptoativo é um software... entende que alguns softwares funcionam, e outros não.
+Daí surgem as altcoins, que são todas as moedas digitais que não são o Bitcoin.
+E qual é a grande questão aqui? É que a maioria dos criptoativos ainda são promessas.
+O ecossistema ainda está em construção.
+...
+O que acontece é que muitas altcoins, quando são criadas, apresentam-se como a promessa de que vão resolver um problema específico.
+E que problemas são esses? Por exemplo, a negociação de bilhetes para eventos através de NFTs. Para isso, é preciso uma blockchain. Há altcoins que se propõem a ser a solução ideal para essa negociação.
+O problema é que muitas delas nunca passam da fase da promessa. E é aqui que reside o perigo.
+Investimos num software que é uma promessa de que vai executar algo... mas a maioria não consegue entregar o que prometeu.
+É como se os criadores tivessem sonhado em extrair ouro na Lua. Nós até podemos acreditar que existe ouro na Lua... mas quando lá chegamos, ou não há ouro, ou não conseguimos levar o trator para fazer a escavação.
+Ficamos apenas com a promessa, sem a entrega. É por isso que muitas altcoins vão falhar.
+As que têm sucesso são precisamente aquelas que começam a entregar uma solução real para o problema que prometeram resolver.
+Elas provam que o seu objetivo era, de facto, atingível. Que era possível, usando a nossa analogia, extrair o ouro da Lua.
+...
+Isto que partilhei contigo foi uma breve introdução ao mundo dos criptoativos.
+Compreender estes conceitos é um passo essencial na tua jornada como investidor.
+Não pouses ainda o papel e a caneta... porque ainda temos muito para explorar.
+(Fim da Leitura)
